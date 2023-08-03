@@ -19,8 +19,8 @@ git clone *github repo's url which you forked from this repository*
 ```
 
 
-4. Once thats done, you can made few changes in the code :
-- Like changing few functions or stack size etc.
+4. Once thats done, you can add one or two of your own dsa code to the repositery :
+- Like adding a c file of stack or queue etc.
 
 
 5. Commit the changes and push it back to your repo using:
