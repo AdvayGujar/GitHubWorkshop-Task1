@@ -1,3 +1,4 @@
+//Name : Advay Gujar
 // C program for Merge Sort
 #include <stdio.h>
 #include <stdlib.h>
