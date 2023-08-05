@@ -19,7 +19,7 @@ void main(){
     
 // git log -p -1(no of commits) --> check commits
     
-/ git checkout <file name> --> undo changes
+// git checkout <file name> --> undo changes
     
     
 // git checkout -f  --> undo changes in all files
